@@ -58,10 +58,9 @@ java Main
 <br/>
 
 ## Output
-<img width="1663" height="903" alt="Library_02 png" src="https://github.com/user-attachments/assets/5b66bd1f-bed7-4b11-9f5d-3313b8116ab0" /><br/>
-<img width="1091" height="894" alt="Library_03 png" src="https://github.com/user-attachments/assets/e9e000e1-835d-409c-a887-51be3864d1fd" /><br/>
-<img width="1147" height="583" alt="Library_04 png" src="https://github.com/user-attachments/assets/9d3f0b76-b53b-4189-be9f-906bae3169ad" /><br/>
-
+<img width="1906" height="1031" alt="Image" src="https://github.com/user-attachments/assets/906baa7f-e043-468f-9b59-bd174bb37f4a" />
+<img width="1917" height="1025" alt="Image" src="https://github.com/user-attachments/assets/52bdb6c2-6b87-44b3-8919-bdce4bfecaef" />
+<img width="1541" height="670" alt="Image" src="https://github.com/user-attachments/assets/7cd57ef2-a34e-4d15-beb0-726370aa667f" />
 ## Notes & Limitations
 - Data resides only in memory; it resets every time the program stops.
 - Input validation is minimal; invalid data may cause errors.
