@@ -3,7 +3,7 @@
 
 This Java console application lets you manage a small library collection: add books, display the catalogue, borrow/return titles, search, and delete entries.
 
-<img width="395" height="205" alt="Library_01 png" src="https://github.com/user-attachments/assets/43f5cabd-9f9a-49dd-99f2-7cc332767f60"/>
+https://github.com/Programmer-titli/LMS/blob/6621c65c7518d3831cdd19836feb3c4cf56439ec/Screenshot%202025-07-14%20211641.png
 
 ## Project: "LMS (Console Edition)"
 This will be a Library Management System (LMS) where users can:
