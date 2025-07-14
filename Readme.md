@@ -51,7 +51,7 @@ java Main
 ## Usage Guide
 1. Launch the program: ```java Main```
 2. Follow the on - screen menu:<br/>
-<img width="233" height="191" alt="Library_05 png" src="https://github.com/user-attachments/assets/f5c96d84-64f7-497c-94fd-ed179de90df3" /><br/>
+  <img width="261" height="222" alt="Image" src="https://github.com/user-attachments/assets/96bc8b97-ec54-4999-99b5-9c106a127a1c" />
 3. Enter the choice number and supply any requested details (book ID, title, etc.)
 4. Exit the application from the menu when done.
 
